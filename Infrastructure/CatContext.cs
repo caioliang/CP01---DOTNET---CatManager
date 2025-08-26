@@ -5,7 +5,7 @@ namespace Infrastructure.Data
 {
     public class CatContext : DbContext
     {
-        public CatContext(DbContextOptions<CatContext> opts) : base(opts) { }
+        public CatContext(DbContextOptions<CatContext> options) : base(options) { }
 
         public DbSet<Cat> Cats { get; set; }
         public DbSet<Breed> Breeds { get; set; }

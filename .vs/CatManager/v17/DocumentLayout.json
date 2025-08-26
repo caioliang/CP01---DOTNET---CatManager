@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81F8C440-D105-4CE2-801C-0FBAC079C572}|ApiCatFacts\\ApiCatFacts.csproj|c:\\users\\liang\\documents\\fiap\\dotnet\\catmanager\\apicatfacts\\controllers\\catfactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81F8C440-D105-4CE2-801C-0FBAC079C572}|ApiCatFacts\\ApiCatFacts.csproj|solutionrelative:apicatfacts\\controllers\\catfactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81F8C440-D105-4CE2-801C-0FBAC079C572}|ApiCatFacts\\ApiCatFacts.csproj|c:\\users\\liang\\documents\\fiap\\dotnet\\catmanager\\apicatfacts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81F8C440-D105-4CE2-801C-0FBAC079C572}|ApiCatFacts\\ApiCatFacts.csproj|solutionrelative:apicatfacts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81F8C440-D105-4CE2-801C-0FBAC079C572}|ApiCatFacts\\ApiCatFacts.csproj|c:\\users\\liang\\documents\\fiap\\dotnet\\catmanager\\apicatfacts\\apicatfacts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{81F8C440-D105-4CE2-801C-0FBAC079C572}|ApiCatFacts\\ApiCatFacts.csproj|solutionrelative:apicatfacts\\apicatfacts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D366806-649C-499E-85EC-4511B940D8F7}|Infrastructure\\Infrastructure.csproj|c:\\users\\liang\\documents\\fiap\\dotnet\\catmanager\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1D366806-649C-499E-85EC-4511B940D8F7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D366806-649C-499E-85EC-4511B940D8F7}|Infrastructure\\Infrastructure.csproj|c:\\users\\liang\\documents\\fiap\\dotnet\\catmanager\\infrastructure\\catfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D366806-649C-499E-85EC-4511B940D8F7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\catfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA3978E0-33F1-4FAB-9511-47FE5254FC03}|Application\\Application.csproj|c:\\users\\liang\\documents\\fiap\\dotnet\\catmanager\\application\\icatfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3978E0-33F1-4FAB-9511-47FE5254FC03}|Application\\Application.csproj|solutionrelative:application\\icatfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81F8C440-D105-4CE2-801C-0FBAC079C572}|ApiCatFacts\\ApiCatFacts.csproj|c:\\users\\liang\\documents\\fiap\\dotnet\\catmanager\\apicatfacts\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{81F8C440-D105-4CE2-801C-0FBAC079C572}|ApiCatFacts\\ApiCatFacts.csproj|solutionrelative:apicatfacts\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Infrastructure",
-              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Infrastructure\\Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Infrastructure\\Infrastructure.csproj",
-              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-26T01:07:58.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CatFactsController.cs",
-              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\ApiCatFacts\\Controllers\\CatFactsController.cs",
-              "RelativeDocumentMoniker": "ApiCatFacts\\Controllers\\CatFactsController.cs",
-              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\ApiCatFacts\\Controllers\\CatFactsController.cs",
-              "RelativeToolTip": "ApiCatFacts\\Controllers\\CatFactsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T00:59:52.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApiCatFacts",
-              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\ApiCatFacts\\ApiCatFacts.csproj",
-              "RelativeDocumentMoniker": "ApiCatFacts\\ApiCatFacts.csproj",
-              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\ApiCatFacts\\ApiCatFacts.csproj",
-              "RelativeToolTip": "ApiCatFacts\\ApiCatFacts.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-26T01:05:44.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\ApiCatFacts\\Program.cs",
-              "RelativeDocumentMoniker": "ApiCatFacts\\Program.cs",
-              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\ApiCatFacts\\Program.cs",
-              "RelativeToolTip": "ApiCatFacts\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T00:55:58.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CatFactService.cs",
-              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Infrastructure\\CatFactService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\CatFactService.cs",
-              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Infrastructure\\CatFactService.cs",
-              "RelativeToolTip": "Infrastructure\\CatFactService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T00:57:53.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICatFactService.cs",
-              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Application\\ICatFactService.cs",
-              "RelativeDocumentMoniker": "Application\\ICatFactService.cs",
-              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Application\\ICatFactService.cs",
-              "RelativeToolTip": "Application\\ICatFactService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T00:57:15.637Z",
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\ApiCatFacts\\README.md",
+              "RelativeDocumentMoniker": "ApiCatFacts\\README.md",
+              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\ApiCatFacts\\README.md",
+              "RelativeToolTip": "ApiCatFacts\\README.md",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-26T01:54:20.329Z",
               "EditorCaption": ""
             }
           ]

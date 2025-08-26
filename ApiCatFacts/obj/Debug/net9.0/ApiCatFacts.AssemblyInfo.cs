@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiCatFacts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c7e4d1842de10f42b1b38bb40acc7e160c0d0b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiCatFacts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiCatFacts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
