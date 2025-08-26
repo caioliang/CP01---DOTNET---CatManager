@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8AmuqGvzhEw3vNoIPffJEiZf6kQRCp+cGJTrrFR0yhE=",
+  "Source": "ApiCatFacts",
+  "BasePath": "_content/ApiCatFacts",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

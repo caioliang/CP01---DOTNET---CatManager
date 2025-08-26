@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Infrastructure\\CatContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\CatContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\ApiOracleCats\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiOracleCats\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\ApiOracleCats\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiOracleCats\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\ApiOracleCats\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiOracleCats\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\ApiOracleCats\\ApiOracleCats.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiOracleCats\\ApiOracleCats.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Application\\ICatFactService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\ICatFactService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Application\\ICatService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\ICatService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Domain\\Breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Domain\\Cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Domain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\ApiOracleCats\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ApiOracleCats\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\ApiOracleCats\\appsettings.Development.json",
+              "RelativeToolTip": "ApiOracleCats\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T00:42:47.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\ApiOracleCats\\Program.cs",
+              "RelativeDocumentMoniker": "ApiOracleCats\\Program.cs",
+              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\ApiOracleCats\\Program.cs",
+              "RelativeToolTip": "ApiOracleCats\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T00:38:42.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\ApiOracleCats\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiOracleCats\\appsettings.json",
+              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\ApiOracleCats\\appsettings.json",
+              "RelativeToolTip": "ApiOracleCats\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T00:37:43.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatContext.cs",
+              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Infrastructure\\CatContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CatContext.cs",
+              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Infrastructure\\CatContext.cs",
+              "RelativeToolTip": "Infrastructure\\CatContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T00:36:50.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiOracleCats.http",
+              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\ApiOracleCats\\ApiOracleCats.http",
+              "RelativeDocumentMoniker": "ApiOracleCats\\ApiOracleCats.http",
+              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\ApiOracleCats\\ApiOracleCats.http",
+              "RelativeToolTip": "ApiOracleCats\\ApiOracleCats.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-26T00:37:48.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICatFactService.cs",
+              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Application\\ICatFactService.cs",
+              "RelativeDocumentMoniker": "Application\\ICatFactService.cs",
+              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Application\\ICatFactService.cs",
+              "RelativeToolTip": "Application\\ICatFactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T00:34:37.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICatService.cs",
+              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Application\\ICatService.cs",
+              "RelativeDocumentMoniker": "Application\\ICatService.cs",
+              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Application\\ICatService.cs",
+              "RelativeToolTip": "Application\\ICatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T00:34:14.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Breed.cs",
+              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Domain\\Breed.cs",
+              "RelativeDocumentMoniker": "Domain\\Breed.cs",
+              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Domain\\Breed.cs",
+              "RelativeToolTip": "Domain\\Breed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T00:32:43.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Domain\\Cat.cs",
+              "RelativeDocumentMoniker": "Domain\\Cat.cs",
+              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Domain\\Cat.cs",
+              "RelativeToolTip": "Domain\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T00:32:17.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CatManager\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T00:31:26.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

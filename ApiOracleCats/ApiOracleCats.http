@@ -1,0 +1,6 @@
+@ApiOracleCats_HostAddress = http://localhost:5071
+
+GET {{ApiOracleCats_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
