@@ -1,28 +1,46 @@
-🐱 CatManager
-Projeto acadêmico em .NET 8 com arquitetura em camadas, múltiplas APIs, aplicação MVC e bibliotecas compartilhadas.
-O objetivo é gerenciar informações de gatos e integrar com API externa de curiosidades (Cat Facts), além de persistir dados em banco Oracle.
+# 🐱 CatManager
 
-📂 Estrutura da Solução
-CatManager.sln ├── ApiCatFacts # WebAPI que consome e expõe fatos sobre gatos ├── ApiOracleCats # WebAPI principal com CRUD de gatos e Oracle DB ├── WebMvcCats # Aplicação ASP.NET MVC para interação com usuários ├── Application # Regras de negócio, DTOs e Services ├── Domain # Entidades e contratos do domínio ├── Infrastructure # Persistência de dados (EF Core + Oracle)
+Projeto acadêmico em **.NET 8** com arquitetura em camadas, múltiplas APIs, aplicação MVC e bibliotecas compartilhadas.  
+O objetivo é gerenciar informações de gatos e integrar com API externa de curiosidades (**Cat Facts**), além de persistir dados em banco **Oracle**.
 
-markdown Copiar Editar
+---
 
-🚀 Tecnologias Utilizadas
-.NET 8
-ASP.NET Core WebAPI
-ASP.NET Core MVC
-Entity Framework Core
-Oracle EF Core Provider
-Swagger / OpenAPI
-Injeção de Dependência (DI)
-(Opcional) JWT para autenticação
-(Opcional) xUnit/NUnit para testes
-⚙️ Configuração
-1. Variáveis de ambiente
-Defina a connection string do Oracle via variável de ambiente:
+## 📂 Estrutura da Solução
 
-Windows (PowerShell):
+CatManager.sln
+├── ApiCatFacts # WebAPI que consome e expõe fatos sobre gatos
+├── ApiOracleCats # WebAPI principal com CRUD de gatos e Oracle DB
+├── WebMvcCats # Aplicação ASP.NET MVC para interação com usuários
+├── Application # Regras de negócio, DTOs e Services
+├── Domain # Entidades e contratos do domínio
+├── Infrastructure # Persistência de dados (EF Core + Oracle)
 
+markdown
+Copiar
+Editar
+
+---
+
+## 🚀 Tecnologias Utilizadas
+- [.NET 8](https://dotnet.microsoft.com/)
+- [ASP.NET Core WebAPI](https://learn.microsoft.com/aspnet/core/web-api)
+- [ASP.NET Core MVC](https://learn.microsoft.com/aspnet/core/mvc)
+- [Entity Framework Core](https://learn.microsoft.com/ef/core)
+- [Oracle EF Core Provider](https://www.nuget.org/packages/Oracle.EntityFrameworkCore)
+- Swagger / OpenAPI
+- Injeção de Dependência (DI)
+- (Opcional) JWT para autenticação
+- (Opcional) xUnit/NUnit para testes
+
+---
+
+## ⚙️ Configuração
+
+### 1. Variáveis de ambiente
+Defina a **connection string do Oracle** via variável de ambiente:
+
+**Windows (PowerShell):**
+```powershell
 setx ConnectionStrings__OracleConnection "User Id=usuario;Password=senha;Data Source=//oracle.fiap.com.br:1521/orcl"
 Linux/macOS (bash/zsh):
 
